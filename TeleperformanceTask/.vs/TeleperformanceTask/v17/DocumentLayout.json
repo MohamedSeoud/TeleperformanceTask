@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|c:\\users\\ltc\\source\\repos\\teleperformancetask\\teleperformancetask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|solutionrelative:teleperformancetask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|c:\\users\\ltc\\source\\repos\\teleperformancetask\\teleperformancetask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|solutionrelative:teleperformancetask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|c:\\users\\ltc\\source\\repos\\teleperformancetask\\teleperformancetask\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|solutionrelative:teleperformancetask\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|c:\\users\\ltc\\source\\repos\\teleperformancetask\\teleperformancetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|solutionrelative:teleperformancetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|c:\\users\\ltc\\source\\repos\\teleperformancetask\\teleperformancetask\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|solutionrelative:teleperformancetask\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|c:\\users\\ltc\\source\\repos\\teleperformancetask\\teleperformancetask\\migrations\\20240827213740_updateempolyeemodelusersfieldnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|solutionrelative:teleperformancetask\\migrations\\20240827213740_updateempolyeemodelusersfieldnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|c:\\users\\ltc\\source\\repos\\teleperformancetask\\teleperformancetask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|solutionrelative:teleperformancetask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|c:\\users\\ltc\\source\\repos\\teleperformancetask\\teleperformancetask\\helpers\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|solutionrelative:teleperformancetask\\helpers\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|c:\\users\\ltc\\source\\repos\\teleperformancetask\\teleperformancetask\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|solutionrelative:teleperformancetask\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|c:\\users\\ltc\\source\\repos\\teleperformancetask\\teleperformancetask\\migrations\\20240827220746_updateempolyeemodelusersfieldusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|solutionrelative:teleperformancetask\\migrations\\20240827220746_updateempolyeemodelusersfieldusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|c:\\users\\ltc\\source\\repos\\teleperformancetask\\teleperformancetask\\migrations\\20240827213715_updateempolyeemodelusersfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075B0B78-1803-4584-96D7-7076F098730B}|TeleperformanceTask\\TeleperformanceTask.csproj|solutionrelative:teleperformancetask\\migrations\\20240827213715_updateempolyeemodelusersfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "TeleperformanceTask\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Services\\ITokenService.cs",
+              "RelativeToolTip": "TeleperformanceTask\\Services\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:47:25.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Helpers\\RoleInitializer.cs",
+              "RelativeDocumentMoniker": "TeleperformanceTask\\Helpers\\RoleInitializer.cs",
+              "ToolTip": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Helpers\\RoleInitializer.cs",
+              "RelativeToolTip": "TeleperformanceTask\\Helpers\\RoleInitializer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:45:11.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "TeleperformanceTask\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Services\\TokenService.cs",
+              "RelativeToolTip": "TeleperformanceTask\\Services\\TokenService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAASwBcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:54:39.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TeleperformanceTask\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Models\\Employee.cs",
+              "RelativeToolTip": "TeleperformanceTask\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:31:59.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\appsettings.json",
+              "RelativeDocumentMoniker": "TeleperformanceTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\appsettings.json",
+              "RelativeToolTip": "TeleperformanceTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T21:15:07.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Program.cs",
+              "RelativeDocumentMoniker": "TeleperformanceTask\\Program.cs",
+              "ToolTip": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Program.cs",
+              "RelativeToolTip": "TeleperformanceTask\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAawBMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:10:46.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "TeleperformanceTask\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "TeleperformanceTask\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAEwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:10:38.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240827213740_UpdateEmpolyeeModelUsersFieldNull.cs",
+              "DocumentMoniker": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Migrations\\20240827213740_UpdateEmpolyeeModelUsersFieldNull.cs",
+              "RelativeDocumentMoniker": "TeleperformanceTask\\Migrations\\20240827213740_UpdateEmpolyeeModelUsersFieldNull.cs",
+              "ToolTip": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Migrations\\20240827213740_UpdateEmpolyeeModelUsersFieldNull.cs",
+              "RelativeToolTip": "TeleperformanceTask\\Migrations\\20240827213740_UpdateEmpolyeeModelUsersFieldNull.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:37:41.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TeleperformanceTask\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TeleperformanceTask\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:03:04.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240827220746_UpdateEmpolyeeModelUsersFieldUsername.cs",
+              "DocumentMoniker": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Migrations\\20240827220746_UpdateEmpolyeeModelUsersFieldUsername.cs",
+              "RelativeDocumentMoniker": "TeleperformanceTask\\Migrations\\20240827220746_UpdateEmpolyeeModelUsersFieldUsername.cs",
+              "ToolTip": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Migrations\\20240827220746_UpdateEmpolyeeModelUsersFieldUsername.cs",
+              "RelativeToolTip": "TeleperformanceTask\\Migrations\\20240827220746_UpdateEmpolyeeModelUsersFieldUsername.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:07:46.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240827213715_UpdateEmpolyeeModelUsersField.cs",
+              "DocumentMoniker": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Migrations\\20240827213715_UpdateEmpolyeeModelUsersField.cs",
+              "RelativeDocumentMoniker": "TeleperformanceTask\\Migrations\\20240827213715_UpdateEmpolyeeModelUsersField.cs",
+              "ToolTip": "C:\\Users\\LTC\\source\\repos\\TeleperformanceTask\\TeleperformanceTask\\Migrations\\20240827213715_UpdateEmpolyeeModelUsersField.cs",
+              "RelativeToolTip": "TeleperformanceTask\\Migrations\\20240827213715_UpdateEmpolyeeModelUsersField.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:37:15.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
