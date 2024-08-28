@@ -142,3 +142,4 @@ C:\Users\LTC\source\repos\TeleperformanceTask\TeleperformanceTask\obj\Debug\net8
 C:\Users\LTC\source\repos\TeleperformanceTask\TeleperformanceTask\obj\Debug\net8.0\TeleperformanceTask.genruntimeconfig.cache
 C:\Users\LTC\source\repos\TeleperformanceTask\TeleperformanceTask\obj\Debug\net8.0\ref\TeleperformanceTask.dll
 C:\Users\LTC\source\repos\TeleperformanceTask\TeleperformanceTask\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LTC\source\repos\TelePerformanceTask\TeleperformanceTask\obj\Debug\net8.0\TeleperformanceTask.sourcelink.json

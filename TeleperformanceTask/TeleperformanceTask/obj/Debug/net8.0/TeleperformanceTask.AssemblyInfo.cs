@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeleperformanceTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4200713417134b15590cf6535f6796bac9fe7ba5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeleperformanceTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeleperformanceTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
